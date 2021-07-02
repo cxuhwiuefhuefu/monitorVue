@@ -37,7 +37,7 @@ export default {
     msg: String
   },
   created() {
-    // console.log(b);
+    console.log(b);
   }
 }
 </script>
